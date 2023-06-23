@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="follower">%d Followers</string>
+    <string name="following">%d Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
